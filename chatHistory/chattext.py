@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[7]:
-
-
 import re
 b = open("chat.txt","r")
 a = open("messages.txt","w")
